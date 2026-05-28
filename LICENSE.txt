@@ -24,4 +24,4 @@ Core Capabilities
 
 
 TAGS
-dota-2, valve, moba, dota2, strategy-game, dota-2026, dota-2-maphack, maphack, map-hack, fog-hack, vision-cheat, map-esp        
+dota-2, valve, moba, dota2, strategy-game, dota-2026, dota-2-maphack, maphack, map-hack, fog-hack, vision-cheat, map-esp         
